@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Mathew-makumi
-- 👀 I’m interested in android 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Networking
+- 🌱 I’m currently learning networks and network administration
 - 💞️ I’m looking to collaborate on githubgist
-- 📫 How to reach me for coding work
+- 📫 How to reach me for networkadministration...
 
-<!---
-Mathew-makumi/Mathew-makumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mathewmakumi26@gmail.com
